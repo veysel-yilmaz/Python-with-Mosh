@@ -1,0 +1,8 @@
+"""Steps
+1. Import the Data( mostly in csv format)
+2. Clean the Data(removing duplicates for ex)
+3. Split the Data into Traning/Test Sets
+4. Create a Model(an algorithm)
+5. Train the Model
+6. Make Predictions
+7. Evaluate and Improve"""

@@ -1,0 +1,6 @@
+Numpy: very popular, provides a multidimensional array
+Pandas: a data analysis library providing data frame(2-dimensional data structure, similar to excel spreadsheet)
+Matplotlib: 2-dimensional plotting lib for creating graphs and plots
+Scikit-Learn:provides common algos like decision trees, neural networks
+Jupyter: is need to visualise data
+
